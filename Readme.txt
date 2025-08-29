@@ -77,7 +77,7 @@ VIN (5V) --->    V+ (Servo Power for PCA9685)
 ## 📸 Demo
 
 *(Insert images, wiring diagrams, or demo flight video here)*
-[Image](https://github.com/user-attachments/assets/c3aab509-3eab-4921-9054-99670d498a93)
+![Image](https://github.com/user-attachments/assets/c3aab509-3eab-4921-9054-99670d498a93)
 ---
 
 ## 🚀 Future Improvements
