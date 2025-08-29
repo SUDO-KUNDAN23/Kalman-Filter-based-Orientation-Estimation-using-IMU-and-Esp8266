@@ -103,7 +103,7 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ## 👨‍💻 Author
 
-Developed by **\[Your Name]**
+Developed by Kundan Kumar Munda
 🔗 [GitHub](https://github.com/your-username) | [LinkedIn](https://www.linkedin.com/in/kundan-kumar-munda-47b978286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
