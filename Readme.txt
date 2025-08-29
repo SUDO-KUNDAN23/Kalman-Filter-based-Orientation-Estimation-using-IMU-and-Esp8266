@@ -77,7 +77,7 @@ VIN (5V) --->    V+ (Servo Power for PCA9685)
 
 ## 📸 Demo
 
-![Demo Image](video_20250611_151812%20-%20frame%20at%200m0s.jpg)
+![Demo Image](https://github.com/SUDO-KUNDAN23/Kalman-Filter-based-Orientation-Estimation-using-IMU-and-Esp8266/blob/0ec22f59012ea2a7821d90955997f8d3c9ba7258/video_20250611_151812%20-%20frame%20at%200m0s.jpg)
 
 ---
 
