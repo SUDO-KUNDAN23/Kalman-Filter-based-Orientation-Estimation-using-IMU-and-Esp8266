@@ -1,6 +1,4 @@
-Here’s a clean and professional **README.md** you can use for your GitHub project 🚀:
 
----
 
 # 🚀 Rocket Flight Controller using ESP8266, MPU6050, HMC5883L & BMP280 with PCA9685 Servo Control
 
@@ -25,8 +23,8 @@ This project implements a **rocket flight controller** using an **ESP8266** micr
 * HMC5883L (Magnetometer)
 * BMP280 (Barometric Pressure + Altitude Sensor)
 * PCA9685 (16-Channel PWM Servo Driver)
-* Servo Motors (for TVC control)
-* Power Supply (5V, high current for servos)
+* Servo Motors (for Fin control)
+* Power Supply (12V, high current for servos)
 
 ---
 
@@ -44,23 +42,6 @@ VIN (5V) --->    V+ (Servo Power for PCA9685)
 
 ⚠️ **Important**: Servos must be powered separately with a common GND to avoid brownouts.
 
----
-
-## 📂 Project Structure
-
-```
-📦 rocket-flight-controller
- ┣ 📁 src
- ┃ ┗ 📜 main.ino         # Main flight controller code
- ┣ 📁 docs
- ┃ ┣ 📜 circuit.png      # Circuit diagram
- ┃ ┗ 📜 demo.gif         # Demo video/animation
- ┣ 📜 README.md          # Documentation
- ┣ 📜 LICENSE
- ┗ 📜 requirements.txt   # Required libraries
-```
-
----
 
 ## 📥 Installation
 
